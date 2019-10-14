@@ -1,2 +1,2 @@
 # cagepage
-a tribute page for Nicolas Page
+a tribute page for Nicolas Cage
